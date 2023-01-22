@@ -1,0 +1,100 @@
+body{
+  font-family: "Montserrat",sans-serif;
+}
+
+
+#title{
+  background-color: #ff4c68;
+
+}
+
+
+.container-fluid{
+  padding: 3% 15%;
+}
+
+h1{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 3rem;
+  line-height: 1.5;
+  color:#fff;
+  margin-top:50px;
+  margin-bottom: 30px;
+}
+
+h2{
+  font-size:3rem;
+  line-height: 1.5;
+}
+
+p{
+  color: #8f8f8f;
+  font-family: sans-serif;
+  font-weight: 100;
+}
+
+
+
+
+
+img[src="images/iphone6.png"]{
+  position:relative;
+  width: 60%;
+  margin-top: 20px;
+  left:150px;
+  transform: rotate(25deg);
+}
+
+.navbar{
+  padding: 0 0 4.5rem;
+}
+
+.nav-item{
+  padding:0 18px;
+}
+
+.nav-link{
+  font-size:1.2rem;
+  font-family: "Montserrat-Light";
+}
+
+
+/*Download button*/
+.download-button{
+  margin:5% 3% 5% 0;
+}
+
+/* Features Section*/
+
+#features{
+  padding: 7% 15%;
+
+}
+
+.feature-box{
+  text-align: center;
+  padding:5%;
+}
+
+.icon{
+  color:#ef8172;
+  margin-bottom: 1rem;
+}
+
+.icon:hover{
+  color:#ff4c68;
+}
+
+
+/* Testimonials */
+
+#testimonials{
+  padding:7% 15%;
+  text-align: center;
+  background-color: #ef8172;
+  color:#fff;
+}
+
+.testimonial-image{
+
+}
